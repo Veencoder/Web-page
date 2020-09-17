@@ -25,6 +25,11 @@ h3{
   font-family: 'montserrat',serif;
     font-size: 1.875rem;
 }
+.span{
+  color: #3282b8;
+  font-family: 'montserrat',serif;
+  font-size: 1.25rem;
+}
 p{
   line-height: 2;
 }
